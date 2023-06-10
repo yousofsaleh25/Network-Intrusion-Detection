@@ -7,8 +7,8 @@ In this work, we explore different datasets for Network Intrusion Detection. The
 ## Feature Selection Techniques
 To build effective models, we utilized various feature selection techniques, namely:
 
-*. Information gain
-*. Gain ratio
-*. Chi2
-*. Relief
+- Information gain
+- Gain ratio
+- Chi2
+- Relief
 
