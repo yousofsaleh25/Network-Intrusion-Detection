@@ -1,7 +1,10 @@
 # Network-Intrusion-Detection
 
 ## Introduction
-In this work, we explore different datasets for Network Intrusion Detection. The objective is to classify attack signals from normal ones, considering the increasing challenge of computer security and intrusion detection in today's networked environments. The next Figure illustrate our framework.
+In this work, we explore different datasets for Network Intrusion Detection. The objective is to classify attack signals from normal ones, considering the increasing challenge of computer security and intrusion detection in today's networked environments. The next Figure illustrate our framework. Three different datasets were utilized
+- D1 --> UNSW-NB15 (The primary data)
+- D2 --> KDDCUP
+- D3 --> NSL-KDD
 ![pipeline](https://github.com/yousofsaleh25/Network-Intrusion-Detection/assets/43546116/08274850-2e21-41f2-846a-0de7c2e3ffdd)
 
 ## Feature Selection Techniques
